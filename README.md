@@ -60,3 +60,31 @@ The project will estimate:
 
 Arun Bayimuthkula  
 B.Tech Information Technology
+
+## 📌 Key Findings
+
+Based on the sample analysis:
+
+- 20 customer-support tickets were analyzed.
+- Total manual handling time was 229 minutes.
+- A 40% AI automation reduction was used as a project assumption.
+- Estimated time saved was 91.6 minutes.
+- An illustrative monthly ROI scenario was also calculated.
+
+## 📈 Business Impact
+
+The analysis demonstrates how AI-assisted workflow automation could potentially:
+
+- Reduce repetitive manual work
+- Reduce customer-support handling time
+- Allow employees to focus on more complex requests
+- Improve operational efficiency
+- Create measurable time and cost savings
+
+## ⚠️ Assumptions & Limitations
+
+This is a portfolio project created using sample data and illustrative assumptions.
+
+The estimated AI reduction, employee cost, ticket volume, and implementation cost are not measured results from a real organization.
+
+Actual business impact would require production data and validation.
